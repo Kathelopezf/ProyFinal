@@ -1,0 +1,11 @@
+.color{
+    background-color: black;
+    
+}
+.letra{
+    font-family: "Winky Rough", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    color: white;
+    font-size: 30px;
+}

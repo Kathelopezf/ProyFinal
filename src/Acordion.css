@@ -1,0 +1,12 @@
+.acordeon-boton{
+    font-family: "Winky Rough", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    background-image: linear-gradient(to right, rgb(251, 107, 107), rgb(243, 243, 118), rgb(88, 181, 88));
+    font-size: 30px;
+    border-radius: 20px;
+    width: 100%;
+}
+.acordeon-contenido{
+    background-color: beige;
+}

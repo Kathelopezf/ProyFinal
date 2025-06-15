@@ -1,0 +1,21 @@
+.letracard{
+    font-family: "Winky Rough", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    color: black;
+}
+
+.imagen{
+    height: 350px;
+    padding: 20px;
+}
+.fondo1{
+    border-radius: 10px;
+    background-color:rgb(251, 107, 107);
+}
+.fondo2{
+    background-color:rgb(243, 243, 118);
+}
+.fondo3{
+    background-color:rgb(88, 181, 88);
+}

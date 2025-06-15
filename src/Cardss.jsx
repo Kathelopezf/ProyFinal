@@ -99,7 +99,7 @@ function Cardss() {
         <CardImg
           className="imagen"
           alt="Tinku"
-          src="/Tinku.jpg"
+          src="https://elroblebavaro.wordpress.com/wp-content/uploads/2018/01/4595756_640px.jpg"
           top
           width="100%"
         />
@@ -116,7 +116,7 @@ function Cardss() {
         <CardImg
           className="imagen"
           alt="Diablada"
-          src="/Diablada.jpg"
+          src="https://cdn.bolivia.com/sdi/2021/09/19/ministerio-de-cultura-convoca-al-diablazo-plurinacional-en-oruro-952989-0.jpg"
           top
           width="100%"
         />
@@ -133,7 +133,7 @@ function Cardss() {
         <CardImg
           className="imagen"
           alt="Caporales"
-          src="/caporales.jpg"
+          src="https://cdn.bolivia.com/sdi/2019/01/14/la-danza-tipica-de-bolivia-que-se-bailo-en-el-corazon-de-flores-701728.jpg"
           top
           width="100%"
         />
